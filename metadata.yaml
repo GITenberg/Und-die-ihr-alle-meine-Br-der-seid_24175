@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8998'
     url: http://www.gutenberg.org/2009/agents/8998
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24175#Und-die-ihr-alle-meine-Br-der-seid
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2008-01-05'
 gutenberg_type: Text
