@@ -1,0 +1,29 @@
+_repo: Und-die-ihr-alle-meine-Br-der-seid_24175
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frohnmeyer, Ida
+    birthdate: 1882
+    deathdate: 1968
+    gutenberg_agent_id: '8998'
+    url: http://www.gutenberg.org/2009/agents/8998
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2008-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24175'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Emigration and immigration'
+- !lcsh 'Short stories'
+- !lcsh 'Bayern (Bavaria, Germany : Province) -- Fiction'
+- !lcc 'PT'
+title: Und die ihr alle meine Brüder seid
+url: http://www.gutenberg.org/ebooks/24175
